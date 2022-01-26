@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "6de3f6579bc04e0a769aa39993663e5a131d1c41",
+          "version": null
+        }
+      },
+      {
+        "package": "SPMTestOne",
+        "repositoryURL": "https://github.com/yugandharkommineni/SPMTestOne-main",
+        "state": {
+          "branch": "main",
+          "revision": "952a7de66ef8899271d75e0e9387808ef1831c73",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
